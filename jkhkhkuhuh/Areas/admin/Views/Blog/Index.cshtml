@@ -1,0 +1,53 @@
+﻿@model List<Blog>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 mb-5">
+            <a asp-area="admin" asp-controller="blog" asp-action="create" class="btn btn-primary">Create</a>
+        </div>
+        <hr />
+        <div class="col-lg-12">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Image</th>
+                        <th scope="col">Content</th>
+                        <th scope="col">BlogCategory</th>
+                        <th scope="col">User</th>
+                        <th scope="col">Date</th>
+                        <th scope="col">Weius</th>
+                        <th scope="col">Tıttle</th>
+                        <th scope="col"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{int i = 0; }
+                    @foreach (var item in Model)
+                    {
+                        i++;
+                    <tr>
+                        <th scope="row">@i</th>
+                        <td><img src="~/Uploades/@item.Image" alt="Alternate Text" style="max-width:150px;max-height:150px" /></td>
+                        <td>@(item.Content.Length>150? item.Content.Substring(0,150):item.Content)</td>
+                        <td>@item.Category.Name</td>
+                        <td>@item.CustomUser.UserName</td>
+                        <td>@item.CreatTime.ToString("dd.MM.yyyy HH:mm:ss")</td>
+                        <td>@item.Weius</td>
+                        <td>@item.Tittle</td>
+                        <td>
+                            <a asp-area="admin" asp-controller="blog" asp-action="update" asp-route-id="@item.Id" class="btn btn-success">Update</a>
+                            <a asp-area="admin" asp-controller="blog" asp-action="delete" asp-route-id="@item.Id" onclick="return confirm('Silmek istedediyinize eminsiniz?')" class="btn btn-danger">Delete</a>
+                        </td>
+                    </tr>
+}
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

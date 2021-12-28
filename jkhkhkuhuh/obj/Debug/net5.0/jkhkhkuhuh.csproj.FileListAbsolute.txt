@@ -1,0 +1,170 @@
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\appsettings.json
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.exe
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.deps.json
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.runtimeconfig.json
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.runtimeconfig.dev.json
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\ref\jkhkhkuhuh.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.pdb
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.Views.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.Views.pdb
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.csproj.AssemblyReference.cache
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.AssemblyInfoInputs.cache
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.AssemblyInfo.cs
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.csproj.CoreCompileInputs.cache
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.RazorAssemblyInfo.cache
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.RazorAssemblyInfo.cs
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\staticwebassets\jkhkhkuhuh.StaticWebAssets.Manifest.cache
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\staticwebassets\jkhkhkuhuh.StaticWebAssets.xml
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\scopedcss\bundle\jkhkhkuhuh.styles.css
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.TagHelpers.input.cache
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.TagHelpers.output.cache
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.RazorCoreGenerate.cache
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.RazorTargetAssemblyInfo.cache
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.RazorTargetAssemblyInfo.cs
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.Views.pdb
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.csproj.CopyComplete
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\ref\jkhkhkuhuh.dll
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.pdb
+C:\Users\Hp-pavilion\Desktop\555\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.genruntimeconfig.cache
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\appsettings.json
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.exe
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.deps.json
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.runtimeconfig.json
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.runtimeconfig.dev.json
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\ref\jkhkhkuhuh.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.pdb
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.Views.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\jkhkhkuhuh.Views.pdb
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.csproj.AssemblyReference.cache
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.AssemblyInfoInputs.cache
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.AssemblyInfo.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.csproj.CoreCompileInputs.cache
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.RazorAssemblyInfo.cache
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.RazorAssemblyInfo.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\staticwebassets\jkhkhkuhuh.StaticWebAssets.Manifest.cache
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\staticwebassets\jkhkhkuhuh.StaticWebAssets.xml
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\scopedcss\bundle\jkhkhkuhuh.styles.css
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.TagHelpers.input.cache
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.TagHelpers.output.cache
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.RazorCoreGenerate.cache
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.RazorTargetAssemblyInfo.cache
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.RazorTargetAssemblyInfo.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.Views.pdb
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.csproj.CopyComplete
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\ref\jkhkhkuhuh.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.pdb
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\jkhkhkuhuh.genruntimeconfig.cache
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\Account\Login.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\BlogCategory\Index.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\BlogCategory\Create.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\BlogCategory\Update.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\Blog\Index.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\Blog\Create.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\Blog\Update.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Service\Index.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\FeedBack\Index.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\BlogCat\Index.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Blog2\Index.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Views\Element\Index.cshtml.g.cs
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Hp-pavilion\Downloads\New folder\jkhkhkuhuh\jkhkhkuhuh\obj\Debug\net5.0\Razor\Areas\admin\Views\Account\Register.cshtml.g.cs
