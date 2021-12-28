@@ -1,4 +1,4 @@
-﻿using jkhkhkuhuh.Data;
+using jkhkhkuhuh.Data;
 using jkhkhkuhuh.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 namespace jkhkhkuhuh.Areas.admin.Controllers
 {
     [Area("admin")]
-    
+    [Authorize]
     public class BlogController : Controller
     {
         private readonly AppDbContext _context;
